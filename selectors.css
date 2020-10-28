@@ -1,0 +1,29 @@
+p{
+    color: red;
+}
+
+#pid{
+    font-style: italic;
+    font-weight: lighter;
+    background-color: #787878;
+    font-variant: small-caps;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.h1class{
+    background-color:#6a5acd;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color:rgb(254,1,133);
+
+}
+h2{
+    font-size: xx-large;
+    
+}
+body{
+    background-image: url(/tree1.jpg);
+    background-repeat: no-repeat;
+    
+    background-position:right top;
+    background-attachment: fixed;
+}
